@@ -29,9 +29,19 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 ## Leadership Skills
 
+The last couple of years my focus has shifted. I spent many years in engineering: building complex systems to solve hard problems for real people. Lately, I've moved up a level of abstraction to what I like to think of as 'meta-engineering': I now build high performing teams of other devs who themselves build complex systems to tackle big challenges for their customers.
+
+In some ways this new focus is even harder. I have to keep my technical skills sharp and my wits about me, while also nurturing relationships, leading teams, mentoring, teaching, hiring (and, unfortunately, firing), sales, marketing, research, and a bazillion other daily tasks while running my own business.
+
 ## Engineering Skills
 
+Most of my career has been spent building custom distributed systems to solve big technical challenges for my customers. I’ve built crawlers, search engines, little languages, interpreters, fault-tolerant and parallel systems, as well as CRUD line-of-business software for all kinds of use cases.
+
+I value quality, robustness, and ease of maintenance.
+
 ## Technical Skills
+
+As a programming language nerd, if I don't have production experience in your favourite language, I've almost certainly dabbled with it in my spare time. Below are a list of tools that I use most in my paid work.
 
 ### Languages
 
@@ -52,21 +62,11 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=awsdynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Dynamo%20DB-4053D6?style=for-the-badge&logo=awsdynamodb&logoColor=white)
 
 ### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-<!--
-TODO:
-
-- Highlighted repos
-- Skill list using cool badges
-- Revise text above - sales pitch
-
--->
 
 
 <!--
