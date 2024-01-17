@@ -18,6 +18,15 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 [My LinkedIn profile](https://www.linkedin.com/in/cole-fichter-b200a54/)
 
+## Featured Repositories
+[Lox](https://github.com/colefichter/lox) - written in Erlang, this is an interpreter for a small JavaScript style language. This repository follows along with the amazing (and free) online book [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom. It chronicles my ongoing interest in, and work to master, compiler implementation techniques.
+
+[DistributedMapReduce3](https://github.com/colefichter/DistributedMapReduce3) - this multi-part tutorial project walks learners through building a fully peer-to-peer MapReduce data processing engine in Erlang.
+
+[NRake](https://github.com/colefichter/NRake) - my C# implementation of the Rapid Automatic Keyword Extraction technique. Used in a large-scale content audit and analysis tool.
+
+[NBoilerpipe](https://github.com/colefichter/NBoilerpipe) - my C# port of the Java boilerpipe project. It was used to detect and separate boilerplate markup from real content in a large-scale content audit and analysis tool.
+
 ## Engineering Skills
 
 ## Leadership Skills
