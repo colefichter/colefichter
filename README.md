@@ -15,6 +15,7 @@ That's now my entire world as a freelance engineering coach.
 Let's connect! You can learn all the details about me and my coaching service over at:
 
 [My website - www.colefichter.ca](http://www.colefichter.ca)
+
 [My LinkedIn profile](https://www.linkedin.com/in/cole-fichter-b200a54/)
 
 
