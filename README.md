@@ -27,23 +27,36 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 [NBoilerpipe](https://github.com/colefichter/NBoilerpipe) - my C# port of the Java boilerpipe project. It was used to detect and separate boilerplate markup from real content in a large-scale content audit and analysis tool.
 
-## Engineering Skills
-
 ## Leadership Skills
+
+## Engineering Skills
 
 ## Technical Skills
 
 ### Languages
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Frameworks
 
+![Dotnet](https://img.shields.io/badge/dotnet-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 ### Databases
+
+![MS SQL Server](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/amazondynamodb-#4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 
 
 <!--
