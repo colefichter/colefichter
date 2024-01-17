@@ -46,13 +46,13 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 ![Dotnet](https://img.shields.io/badge/dotnet-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Databases
 
-![MS SQL Server](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/amazondynamodb-#4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS+SQL+Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-#4053D6?style=for-the-badge&logo=awsdynamodb&logoColor=white)
 
 ### Operating Systems
 
