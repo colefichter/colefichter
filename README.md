@@ -52,7 +52,7 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 ![MS SQL Server](https://img.shields.io/badge/MS+SQL+Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-#4053D6?style=for-the-badge&logo=awsdynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=awsdynamodb&logoColor=white)
 
 ### Operating Systems
 
