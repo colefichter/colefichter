@@ -1,4 +1,4 @@
-### 👋 I'm Cole! Nice to meet you.
+# 👋 I'm Cole! Nice to meet you.
 
 ## Who am I?
 
@@ -16,6 +16,8 @@ Let's connect! You can learn all the details about me and my coaching service ov
 
 [My website - www.colefichter.ca](http://www.colefichter.ca)
 [My LinkedIn profile](https://www.linkedin.com/in/cole-fichter-b200a54/)
+
+
 
 <!--
 **colefichter/colefichter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
